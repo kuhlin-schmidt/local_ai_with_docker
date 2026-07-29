@@ -1,7 +1,7 @@
 # Local AI Model Setup
 
 ## Overview
-This project runs a local AI model using the Docker container `docker.io/ai/qwen3:8B-Q4_K_M`. The provided scripts manage model operations. The model itself is not a very powerful one. If you have a better GPU than my standard one in my MacbookPro M5 then feel free use a more powerful model. you can browser them at [docker.io/ai](https://hub.docker.com/)
+This project runs a local AI model using the Docker container `docker.io/ai/qwen3:8B-Q4_K_M`. The provided scripts manage model operations. The model itself is not a very powerful one. If you have a better GPU than my standard one in my MacbookPro M5 then feel free use a more powerful model. you can browser them at [https://hub.docker.com/u/ai](https://hub.docker.com/u/ai)
 
 ## Files
 - `start-qwen.sh`: Starts the model using Docker
